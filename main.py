@@ -1,4 +1,4 @@
-# Here I will learn to use classes and objects via building a multiple choice quiz
+# Here I learn how to use classes and objects via building a multiple choice quiz
 
 from Class import Question
 
